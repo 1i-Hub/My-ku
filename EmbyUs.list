@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,embymv.link
 #明天倒闭
 DOMAIN-SUFFIX,us1.sexemby.com
 DOMAIN-SUFFIX,us4837.sexemby.com
+DOMAIN-SUFFIX,emby.sexemby.com
 
 #鹅服
 IP-CIDR,156.229.165.55/32,No-resolve
