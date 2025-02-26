@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,misty.cx
 #月饼
 DOMAIN-SUFFIX,shanghai.emby.my
 DOMAIN-SUFFIX,hksgyr.emby.my
+DOMAIN-SUFFIX,a.emby.my
+DOMAIN-SUFFIX,b.emby.my
 
 #Nyamedia
 DOMAIN-SUFFIX,bangumi.ca
