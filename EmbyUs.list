@@ -88,6 +88,9 @@ DOMAIN-SUFFIX,us1.sexemby.com
 DOMAIN-SUFFIX,us4837.sexemby.com
 DOMAIN-SUFFIX,emby.sexemby.com
 
+#硬看
+DOMAIN-SUFFIX,emby.cancanbi.com
+
 #鹅服
 IP-CIDR,156.229.165.55/32,No-resolve
 
@@ -133,3 +136,13 @@ DOMAIN-SUFFIX,emby.alien666.me
 
 #Doubon
 DOMAIN-SUFFIX,onatoshi.114514.quest
+
+#拼好服
+DOMAIN-SUFFIX,19333991.xyz
+DOMAIN-SUFFIX,emby.19333991.xyz
+
+#流星
+DOMAIN-SUFFIX,embyhw1.liustar.click
+
+#KikuEmby
+DOMAIN-SUFFIX,emby.ucloudhost.top
