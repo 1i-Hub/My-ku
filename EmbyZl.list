@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,yomo.lol
 #起点站CND
 DOMAIN-SUFFIX,cdn.qzuie.top
 
+#结束
+DOMAIN-SUFFIX,kessoku-bando.biliblili.uk
+
 DOMAIN-SUFFIX,7777777.buzz
 DOMAIN-SUFFIX,sharepoint.com
 IP-CIDR,111.229.46.243/32,No-resolve
