@@ -67,9 +67,7 @@ DOMAIN-SUFFIX,nomaba.top
 DOMAIN-SUFFIX,alphatvapp.top
 
 #July
-DOMAIN,alist7.eu.org
-DOMAIN-SUFFIX,july.vfing.de
-DOMAIN-SUFFIX,july-us.vfing.de
+IP-CIDR,45.142.176.135/32,No-resolve
 
 #呆瓜
 DOMAIN-SUFFIX,1024.name
