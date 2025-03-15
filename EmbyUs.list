@@ -90,9 +90,7 @@ DOMAIN-SUFFIX,emby.sexemby.com
 DOMAIN-SUFFIX,emby.cancanbi.com
 
 #鹅服
-IP-CIDR,156.229.165.55/32,No-resolve
-
-IP-CIDR,104.161.22.116/32,No-resolve
+DOMAIN-SUFFIX,cavps.eu.org
 
 #墨云阁
 IP-CIDR,107.181.238.190/32,No-resolve
