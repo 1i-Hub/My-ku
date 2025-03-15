@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,kessoku-bando.biliblili.uk
 #YounoEmby
 DOMAIN-SUFFIX,dmit.younoyes.com
 
+#飞跃彩虹
 DOMAIN-SUFFIX,7777777.buzz
+IP-CIDR,193.122.114.13/32,No-resolve
+
 DOMAIN-SUFFIX,sharepoint.com
 IP-CIDR,111.229.46.243/32,No-resolve
