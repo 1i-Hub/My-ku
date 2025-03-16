@@ -20,5 +20,8 @@ DOMAIN-SUFFIX,dmit.younoyes.com
 DOMAIN-SUFFIX,7777777.buzz
 IP-CIDR,193.122.114.13/32,No-resolve
 
+#DPeak
+DOMAIN-SUFFIX,dpeak.bwihz.cn
+
 DOMAIN-SUFFIX,sharepoint.com
 IP-CIDR,111.229.46.243/32,No-resolve
