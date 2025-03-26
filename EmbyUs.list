@@ -9,10 +9,9 @@ DOMAIN-SUFFIX,nebula-media.org
 DOMAIN-SUFFIX,misty.cx
 
 #月饼
-DOMAIN-SUFFIX,shanghai.emby.my
-DOMAIN-SUFFIX,hksgyr.emby.my
 DOMAIN-SUFFIX,a.emby.my
 DOMAIN-SUFFIX,b.emby.my
+DOMAIN-SUFFIX,uhebs.emby.my
 
 #Nyamedia
 DOMAIN-SUFFIX,bangumi.ca
