@@ -39,3 +39,6 @@ DOMAIN-KEYWORD,AKTV
 
 #PCM Emby
 DOMAIN-SUFFIX,emby.pcmhub.org
+
+#叶子
+DOMAIN-SUFFIX,super.yezi.my
