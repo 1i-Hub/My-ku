@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,term.wtf
 
 #起点站公费
 DOMAIN-SUFFIX,nb.28.al
+IP-CIDR,43.143.248.18/32,No-resolve
 
 #起点站公益
 DOMAIN-SUFFIX,free.28.al
@@ -164,5 +165,13 @@ DOMAIN-SUFFIX,gongyi.cherry-pornemby.top
 
 #影迹
 DOMAIN-SUFFIX,emby1.123456789.lol
+
+#云海
+DOMAIN-SUFFIX,emby.oceancloud.asia
+DOMAIN-SUFFIX,nsfw.oceancloud.asia
+
+#入机Emby
+DOMAIN-SUFFIX,embycf.xytx.dpdns.org
+DOMAIN-SUFFIX,lsb.xytx.dpdns.org
 
 
