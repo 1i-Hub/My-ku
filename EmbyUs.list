@@ -164,8 +164,7 @@ DOMAIN-SUFFIX,emby.oceancloud.asia
 DOMAIN-SUFFIX,nsfw.oceancloud.asia
 
 #入机Emby
-DOMAIN-SUFFIX,embycf.xytx.dpdns.org
-DOMAIN-SUFFIX,lsb.xytx.dpdns.org
+DOMAIN-SUFFIX,embycf.rjemby.com
 
 #片刻解说
 DOMAIN-SUFFIX,pieclip.okbap.com
