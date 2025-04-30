@@ -165,11 +165,16 @@ DOMAIN-SUFFIX,nsfw.oceancloud.asia
 
 #入机Emby
 DOMAIN-SUFFIX,embycf.rjemby.com
+IP-CIDR,38.58.177.51/32,No-resolve
+
 
 #片刻解说
 DOMAIN-SUFFIX,pieclip.okbap.com
 
 #云梯在线
 DOMAIN-SUFFIX,emby.yunti.online
+
+#PornEmby
+DOMAIN-SUFFIX,pornemby.com
 
 
