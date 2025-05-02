@@ -167,6 +167,8 @@ DOMAIN-SUFFIX,nsfw.oceancloud.asia
 DOMAIN-SUFFIX,embycf.rjemby.com
 IP-CIDR,38.58.177.51/32,No-resolve
 
+#起立Emby
+DOMAIN-SUFFIX,qlcf.rjemby.com
 
 #片刻解说
 DOMAIN-SUFFIX,pieclip.okbap.com
