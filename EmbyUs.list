@@ -1,4 +1,4 @@
-#终点站
+6#终点站
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,term.wtf
 
@@ -169,6 +169,7 @@ IP-CIDR,38.58.177.51/32,No-resolve
 
 #起立Emby
 DOMAIN-SUFFIX,qlcf.rjemby.com
+DOMAIN-SUFFIX,embyyxvmhk.rjemby.com
 
 #片刻解说
 DOMAIN-SUFFIX,pieclip.okbap.com
