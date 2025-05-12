@@ -1,4 +1,4 @@
-6#终点站
+#终点站
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,term.wtf
 
@@ -183,6 +183,9 @@ DOMAIN-SUFFIX,pornemby.com
 
 #影迹
 IP-CIDR,129.146.108.37/32,No-resolve
+
+#DP
+DOMAIN-SUFFIX,emby.bwihz.cn
 
 #APTV
 DOMAIN-SUFFIX,smart.pendy.dpdns.org
