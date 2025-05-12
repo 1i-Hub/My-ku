@@ -181,6 +181,9 @@ DOMAIN-SUFFIX,emby.yunti.online
 #PornEmby
 DOMAIN-SUFFIX,pornemby.com
 
+#影迹
+IP-CIDR,129.146.108.37/32,No-resolve
+
 #APTV
 DOMAIN-SUFFIX,smart.pendy.dpdns.org
 DOMAIN-SUFFIX,sport.pendy.dpdns.org
