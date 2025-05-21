@@ -184,6 +184,9 @@ IP-CIDR,129.146.108.37/32,No-resolve
 #DP
 DOMAIN-SUFFIX,emby.bwihz.cn
 
+#萝卜Emby
+DOMAIN-SUFFIX,emby.785858.xyz
+
 #APTV
 DOMAIN-SUFFIX,smart.pendy.dpdns.org
 DOMAIN-SUFFIX,sport.pendy.dpdns.org
