@@ -72,9 +72,6 @@ DOMAIN-SUFFIX,alphatvapp.top
 #July
 IP-CIDR,45.142.176.135/32,No-resolve
 
-#呆瓜
-DOMAIN-SUFFIX,1024.name
-
 #Temby
 DOMAIN-SUFFIX,285286.xyz
 
