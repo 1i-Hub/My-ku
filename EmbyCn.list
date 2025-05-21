@@ -50,3 +50,7 @@ DOMAIN-SUFFIX,emby.pcmhub.org
 
 #叶子
 DOMAIN-SUFFIX,super.yezi.my
+
+#4K影视库
+DOMAIN-SUFFIX,4kemby.fun
+DOMAIN-SUFFIX,4kgj.4kemby.fun
