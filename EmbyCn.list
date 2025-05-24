@@ -54,3 +54,6 @@ DOMAIN-SUFFIX,super.yezi.my
 #4K影视库
 DOMAIN-SUFFIX,4kemby.fun
 DOMAIN-SUFFIX,4kgj.4kemby.fun
+
+#入境
+IP-CIDR,120.53.89.215/32,No-resolve
