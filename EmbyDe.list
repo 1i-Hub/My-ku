@@ -2,9 +2,6 @@
 IP-CIDR,135.181.134.46/32,No-resolve
 DOMAIN-SUFFIX,de.vfing.de
 
-#探花
-DOMAIN-SUFFIX,tanhuatv.site
-
 #墨云阁
 DOMAIN-SUFFIX,emby-myg-de.vfing.de
 
