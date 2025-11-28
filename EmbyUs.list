@@ -93,8 +93,7 @@ DOMAIN-SUFFIX,emby.cancanbi.com
 DOMAIN-SUFFIX,cavps.eu.org
 
 #墨云阁
-IP-CIDR,107.181.238.190/32,No-resolve
-DOMAIN-SUFFIX,myg.mobaiemby.site
+DOMAIN-SUFFIX,m.mobaiemby.site
 
 #惊蛰
 DOMAIN-SUFFIX,jingzhe.pro
