@@ -11,14 +11,6 @@ DOMAIN-SUFFIX,mygcns.mobaiemby.site
 #Yomo
 DOMAIN-SUFFIX,emby.yamo.uk
 
-#起点站CND
-DOMAIN-SUFFIX,cdn.qzuie.top
-DOMAIN-SUFFIX,claw.28.al
-DOMAIN-SUFFIX,qdz-hk-vol.vfing.de
-IP-CIDR,43.143.248.18/32,No-resolve
-DOMAIN-SUFFIX,qdz-hk-vol.vfing.de
-DOMAIN-SUFFIX,qdz1.top
-DOMAIN-SUFFIX,mediaw.qdz1.top
 #结束
 DOMAIN-SUFFIX,kessoku-bando.biliblili.uk
 
