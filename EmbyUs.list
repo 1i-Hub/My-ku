@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,uhebs.emby.my
 
 #Nyamedia
 DOMAIN-SUFFIX,bangumi.ca
+DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
+DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
 
 #CC公益
 DOMAIN-SUFFIX,coemn.com
