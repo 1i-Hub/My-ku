@@ -14,6 +14,12 @@ DOMAIN-SUFFIX,emby.yamo.uk
 #lily
 DOMAIN-SUFFIX,cdn.lilyemby.my
 
+#emos
+DOMAIN-SUFFIX,direct.emos.lol
+DOMAIN-SUFFIX,emos.lol
+DOMAIN-SUFFIX,emos.dolby.dpdns.org
+DOMAIN-SUFFIX,emos.movier.ink
+
 #结束
 DOMAIN-SUFFIX,kessoku-bando.biliblili.uk
 
