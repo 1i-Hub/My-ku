@@ -230,6 +230,9 @@ DOMAIN-SUFFIX,dolby.dpdns.org
 DOMAIN-SUFFIX,emos.lol
 DOMAIN-SUFFIX,emos.dolby.dpdns.org
 
+#EmbyDaDa
+DOMAIN-SUFFIX,10520.xyz
+
 #APTV
 DOMAIN-SUFFIX,smart.pendy.dpdns.org
 DOMAIN-SUFFIX,sport.pendy.dpdns.org
