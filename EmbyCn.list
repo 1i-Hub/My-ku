@@ -57,6 +57,4 @@ DOMAIN-SUFFIX,4kgj.4kemby.fun
 #入境
 IP-CIDR,120.53.89.215/32,No-resolve
 
-#EmbyDaDa
-DOMAIN-SUFFIX,10520.xyz
 
