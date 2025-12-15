@@ -60,5 +60,3 @@ IP-CIDR,120.53.89.215/32,No-resolve
 #EmbyDaDa
 DOMAIN-SUFFIX,10520.xyz
 
-#反代
-DOMAIN-SUFFIX,dolby.dpdns.org
