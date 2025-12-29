@@ -239,6 +239,13 @@ DOMAIN-SUFFIX,ns1e.notfounda.shop
 #misaya
 DOMAIN-SUFFIX,emby.misaya.org
 
+#周三晚
+DOMAIN-SUFFIX,zhousanwan.xyz
+
+#empn
+DOMAIN-SUFFIX,empn.mom
+DOMAIN-SUFFIX,sharepoint.com
+
 #APTV
 DOMAIN-SUFFIX,smart.pendy.dpdns.org
 DOMAIN-SUFFIX,sport.pendy.dpdns.org
