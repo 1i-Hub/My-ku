@@ -1,3 +1,10 @@
+#!name=Emby 综合分流插件
+#!desc=包含 HK/US/DE 及直连的自定义分流规则。
+#!author=Gemini
+#!icon=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Emby.png
+#!date=2026-01-03 23:00:00
+
+[Rule]
 # --- Emby 规则集分流 ---
 
 #终点站
