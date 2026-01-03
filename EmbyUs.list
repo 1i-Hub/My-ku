@@ -1,4 +1,4 @@
-# --- 美国 (US) 归类 ---
+# --- Emby 德国美国分流部分 (Emby-Us-Node) ---
 
 #终点站
 DOMAIN-SUFFIX,emby.wtf,Chaina-Hk-Us
@@ -255,11 +255,51 @@ DOMAIN-SUFFIX,smart.pendy.dpdns.org,Chaina-Hk-Us
 DOMAIN-SUFFIX,sport.pendy.dpdns.org,Chaina-Hk-Us
 DOMAIN-SUFFIX,docker.livednow.dpdns.org,Chaina-Hk-Us
 
-# --- 德国 (DE) 归类 ---
+# --- Emby 德国分流部分 (Emby-De-Node) ---
 
-# --- 香港 (HK) 归类 ---
+#起点站
+IP-CIDR,135.181.134.46/32,Emby-De-Node,no-resolve
+DOMAIN-SUFFIX,de.vfing.de,Emby-De-Node
 
-# --- 中国 (Cn) 归类 ---
+#墨云阁
+DOMAIN-SUFFIX,emby-myg-de.vfing.de,Emby-De-Node
+
+#影迹
+DOMAIN-SUFFIX,emby1.123456789.lol,Emby-De-Node
+
+#琴鸟
+DOMAIN-SUFFIX,lyrebirdemby.com,Emby-De-Node
+
+#paolu
+DOMAIN-SUFFIX,cctv.paoluma.de,Emby-De-Node
+
+#特卡
+DOMAIN-SUFFIX,emby.carlos.trade,Emby-De-Node
+
+#STAR EMBY
+DOMAIN-SUFFIX,emby.staryuki.com,Emby-De-Node
+
+#呆瓜🍉
+DOMAIN-SUFFIX,cloudf.chilledmelon.com,Emby-De-Node
+
+#入境
+DOMAIN-SUFFIX,rjggcf.rjf37.com,Emby-De-Node
+#DOMAIN-SUFFIX,rujing.imgcloud.dpdns.org,Emby-De-Node
+DOMAIN-SUFFIX,rjggdebwg.rjf37.com,Emby-De-Node
+
+#Feiniu
+DOMAIN-SUFFIX,feiniu.lol,Emby-De-Node
+
+#STAR EMBY
+DOMAIN-SUFFIX,emby2.staryuki.com,Emby-De-Node
+DOMAIN-SUFFIX,emby1.staryuki.com,Emby-De-Node
+
+#叶子
+DOMAIN-SUFFIX,bai1.yezi.my,Emby-De-Node
+
+# --- Emby 香港分流部分 (Emby-Hk-Node) ---
+
+# --- Emby 中国分流部分 (Emby-Cn-Node) ---
 
 #世界线
 DOMAIN-SUFFIX,tv.worldline.space,DIRECT
