@@ -1,258 +1,256 @@
+# --- 美国 (US) 归类 ---
+
 #终点站
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,term.wtf
+DOMAIN-SUFFIX,emby.wtf,Chaina-Hk-Us
+DOMAIN-SUFFIX,term.wtf,Chaina-Hk-Us
 
 #起点站公费
-DOMAIN-SUFFIX,mediaw.qdz1.top
-DOMAIN-SUFFIX,white.startspoint.com
-DOMAIN-SUFFIX,nb.28.al
+DOMAIN-SUFFIX,mediaw.qdz1.top,Chaina-Hk-Us
+DOMAIN-SUFFIX,white.startspoint.com,Chaina-Hk-Us
+DOMAIN-SUFFIX,nb.28.al,Chaina-Hk-Us
 
 #起点站公益
-DOMAIN-SUFFIX,freewhite.startspoint.com
-DOMAIN-SUFFIX,free.28.al
+DOMAIN-SUFFIX,freewhite.startspoint.com,Chaina-Hk-Us
+DOMAIN-SUFFIX,free.28.al,Chaina-Hk-Us
 
 #Yomo
-DOMAIN-SUFFIX,emby.yamo.uk
+DOMAIN-SUFFIX,emby.yamo.uk,Chaina-Hk-Us
 
 #星云
-DOMAIN-SUFFIX,nebula-media.org
+DOMAIN-SUFFIX,nebula-media.org,Chaina-Hk-Us
 
 #misty
-DOMAIN-SUFFIX,misty.cx
+DOMAIN-SUFFIX,misty.cx,Chaina-Hk-Us
 
 #月饼
-DOMAIN-SUFFIX,a.emby.my
-DOMAIN-SUFFIX,emby.my
-DOMAIN-SUFFIX,uhebs.emby.my
+DOMAIN-SUFFIX,a.emby.my,Chaina-Hk-Us
+DOMAIN-SUFFIX,emby.my,Chaina-Hk-Us
+DOMAIN-SUFFIX,uhebs.emby.my,Chaina-Hk-Us
 
 #Nyamedia
-DOMAIN-SUFFIX,bangumi.ca
-DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
-DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
+DOMAIN-SUFFIX,bangumi.ca,Chaina-Hk-Us
+DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca,Chaina-Hk-Us
+DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca,Chaina-Hk-Us
 
 #CC公益
-DOMAIN-SUFFIX,coemn.com
-DOMAIN-SUFFIX,embycc.link
+DOMAIN-SUFFIX,coemn.com,Chaina-Hk-Us
+DOMAIN-SUFFIX,embycc.link,Chaina-Hk-Us
 
 #非越
-DOMAIN-SUFFIX,z.sfcj.org
+DOMAIN-SUFFIX,z.sfcj.org,Chaina-Hk-Us
 
 #拉拉服
-DOMAIN-SUFFIX,itsmyduty.top
+DOMAIN-SUFFIX,itsmyduty.top,Chaina-Hk-Us
 
 #MisakaF
-DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,misakaf.org,Chaina-Hk-Us
 
 #SDL
-DOMAIN-SUFFIX,lite.saturdayvideo.top
+DOMAIN-SUFFIX,lite.saturdayvideo.top,Chaina-Hk-Us
 
 #天南
-DOMAIN-SUFFIX,us.nanflix.net
+DOMAIN-SUFFIX,us.nanflix.net,Chaina-Hk-Us
 
 #守候影院
-DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,cn2gias.uk,Chaina-Hk-Us
 
 #见手青
-DOMAIN-SUFFIX,mooguu.xyz
+DOMAIN-SUFFIX,mooguu.xyz,Chaina-Hk-Us
 
 #lily
-DOMAIN,www.lilyemby.my
+DOMAIN,www.lilyemby.my,Chaina-Hk-Us
 
 #纸片人
-DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,embyplus.org,Chaina-Hk-Us
 
 #二刺螈
-DOMAIN-SUFFIX,nijigem.by
+DOMAIN-SUFFIX,nijigem.by,Chaina-Hk-Us
 
 #牢大
-DOMAIN-SUFFIX,mius.uk
+DOMAIN-SUFFIX,mius.uk,Chaina-Hk-Us
 
 #鸽巢
-DOMAIN-SUFFIX,mediacf.doven.tv
+DOMAIN-SUFFIX,mediacf.doven.tv,Chaina-Hk-Us
 
 #骡马影库
-DOMAIN-SUFFIX,nomaba.top
+DOMAIN-SUFFIX,nomaba.top,Chaina-Hk-Us
 
 #阿尔法
-DOMAIN-SUFFIX,alphatvapp.top
+DOMAIN-SUFFIX,alphatvapp.top,Chaina-Hk-Us
 
 #July
-IP-CIDR,45.142.176.135/32,No-resolve
+IP-CIDR,45.142.176.135/32,Chaina-Hk-Us,no-resolve
 
 #Temby
-DOMAIN-SUFFIX,285286.xyz
+DOMAIN-SUFFIX,285286.xyz,Chaina-Hk-Us
 
 #飞跃彩虹
-DOMAIN-SUFFIX,yhemby.top
+DOMAIN-SUFFIX,yhemby.top,Chaina-Hk-Us
 
 #Peach
-DOMAIN-SUFFIX,embymv.link
+DOMAIN-SUFFIX,embymv.link,Chaina-Hk-Us
 
 #明天倒闭
-DOMAIN-SUFFIX,us1.sexemby.com
-DOMAIN-SUFFIX,us4837.sexemby.com
-DOMAIN-SUFFIX,emby.sexemby.com
+DOMAIN-SUFFIX,us1.sexemby.com,Chaina-Hk-Us
+DOMAIN-SUFFIX,us4837.sexemby.com,Chaina-Hk-Us
+DOMAIN-SUFFIX,emby.sexemby.com,Chaina-Hk-Us
 
 #硬看
-DOMAIN-SUFFIX,emby.cancanbi.com
+DOMAIN-SUFFIX,emby.cancanbi.com,Chaina-Hk-Us
 
 #鹅服
-DOMAIN-SUFFIX,cavps.eu.org
+DOMAIN-SUFFIX,cavps.eu.org,Chaina-Hk-Us
 
 #墨云阁
-DOMAIN-SUFFIX,m.mobaiemby.site
+DOMAIN-SUFFIX,m.mobaiemby.site,Chaina-Hk-Us
 
 #惊蛰
-DOMAIN-SUFFIX,jingzhe.pro
+DOMAIN-SUFFIX,jingzhe.pro,Chaina-Hk-Us
 
 #极光
-DOMAIN-SUFFIX,auroramedia.vip
+DOMAIN-SUFFIX,auroramedia.vip,Chaina-Hk-Us
 
 #Sanluo
-DOMAIN-SUFFIX,sanluo.566600.xyz
+DOMAIN-SUFFIX,sanluo.566600.xyz,Chaina-Hk-Us
 
 #稳健
-DOMAIN-SUFFIX,wenjian.de
+DOMAIN-SUFFIX,wenjian.de,Chaina-Hk-Us
 
 #HKA
-DOMAIN-SUFFIX,aliz.work
+DOMAIN-SUFFIX,aliz.work,Chaina-Hk-Us
 
 #飞跃银河
-DOMAIN-SUFFIX,yhemby.top
+DOMAIN-SUFFIX,yhemby.top,Chaina-Hk-Us
 
 #普拉斯
-DOMAIN-SUFFIX,xeton.dev
+DOMAIN-SUFFIX,xeton.dev,Chaina-Hk-Us
 
 #叔服
-DOMAIN-SUFFIX,emby3.mcjoker.xyz
+DOMAIN-SUFFIX,emby3.mcjoker.xyz,Chaina-Hk-Us
 
 #探花
-DOMAIN-SUFFIX,tanhuatv.site
+DOMAIN-SUFFIX,tanhuatv.site,Chaina-Hk-Us
 
 #Ikun
-DOMAIN-SUFFIX,emby.xxxh.de
+DOMAIN-SUFFIX,emby.xxxh.de,Chaina-Hk-Us
 
 #比比
-DOMAIN-SUFFIX,beebi.org
+DOMAIN-SUFFIX,beebi.org,Chaina-Hk-Us
 
 #Cimmera
-DOMAIN-SUFFIX,emby.alien666.me
+DOMAIN-SUFFIX,emby.alien666.me,Chaina-Hk-Us
 
 #Doubon
-DOMAIN-SUFFIX,onatoshi.114514.quest
+DOMAIN-SUFFIX,onatoshi.114514.quest,Chaina-Hk-Us
 
-#拼好服   18
-DOMAIN-SUFFIX,19333991.xyz
-DOMAIN-SUFFIX,emby.19333991.xyz
-DOMAIN-SUFFIX,emby2.19333991.xyz
+#拼好服
+DOMAIN-SUFFIX,19333991.xyz,Chaina-Hk-Us
+DOMAIN-SUFFIX,emby.19333991.xyz,Chaina-Hk-Us
+DOMAIN-SUFFIX,emby2.19333991.xyz,Chaina-Hk-Us
 
 #流星
-DOMAIN-SUFFIX,embyhw1.liustar.click
+DOMAIN-SUFFIX,embyhw1.liustar.click,Chaina-Hk-Us
 
 #KikuEmby
-DOMAIN-SUFFIX,emby.ucloudhost.top
+DOMAIN-SUFFIX,emby.ucloudhost.top,Chaina-Hk-Us
 
 #lrisEmby
-DOMAIN-SUFFIX,iris.niceduck.lol
-DOMAIN-SUFFIX,ustream.irisnb.com
-DOMAIN-SUFFIX,iris4837.5203166.xyz
-DOMAIN-SUFFIX,irisus.5203166.xyz
+DOMAIN-SUFFIX,iris.niceduck.lol,Chaina-Hk-Us
+DOMAIN-SUFFIX,ustream.irisnb.com,Chaina-Hk-Us
+DOMAIN-SUFFIX,iris4837.5203166.xyz,Chaina-Hk-Us
+DOMAIN-SUFFIX,irisus.5203166.xyz,Chaina-Hk-Us
 
 #YounoEmby
-DOMAIN-SUFFIX,emby.younoyes.com
+DOMAIN-SUFFIX,emby.younoyes.com,Chaina-Hk-Us
 
 #大V
-DOMAIN-SUFFIX,su.viclub.top
+DOMAIN-SUFFIX,su.viclub.top,Chaina-Hk-Us
 
 #Cheyy公益服
-DOMAIN-SUFFIX,gongyi.cherry-pornemby.top
+DOMAIN-SUFFIX,gongyi.cherry-pornemby.top,Chaina-Hk-Us
 
 #云海
-DOMAIN-SUFFIX,emby.oceancloud.asia
-DOMAIN-SUFFIX,nsfw.oceancloud.asia
+DOMAIN-SUFFIX,emby.oceancloud.asia,Chaina-Hk-Us
+DOMAIN-SUFFIX,nsfw.oceancloud.asia,Chaina-Hk-Us
 
 #入机Emby
-DOMAIN-SUFFIX,embycf.rjemby.com
-IP-CIDR,38.58.177.51/32,No-resolve
+DOMAIN-SUFFIX,embycf.rjemby.com,Chaina-Hk-Us
+IP-CIDR,38.58.177.51/32,Chaina-Hk-Us,no-resolve
 
 #起立Emby
-DOMAIN-SUFFIX,qlcf.rjemby.com
-DOMAIN-SUFFIX,embyyxvmhk.rjemby.com
+DOMAIN-SUFFIX,qlcf.rjemby.com,Chaina-Hk-Us
+DOMAIN-SUFFIX,embyyxvmhk.rjemby.com,Chaina-Hk-Us
 
 #片刻解说
-DOMAIN-SUFFIX,pieclip.okbap.com
+DOMAIN-SUFFIX,pieclip.okbap.com,Chaina-Hk-Us
 
 #云梯在线
-DOMAIN-SUFFIX,emby.yunti.online
+DOMAIN-SUFFIX,emby.yunti.online,Chaina-Hk-Us
 
 #PornEmby
-DOMAIN-SUFFIX,pornemby.com
+DOMAIN-SUFFIX,pornemby.com,Chaina-Hk-Us
 
 #影迹
-IP-CIDR,129.146.108.37/32,No-resolve
+IP-CIDR,129.146.108.37/32,Chaina-Hk-Us,no-resolve
 
 #DP
-DOMAIN-SUFFIX,emby.bwihz.cn
+DOMAIN-SUFFIX,emby.bwihz.cn,Chaina-Hk-Us
 
 #萝卜Emby
-DOMAIN-SUFFIX,emby.785858.xyz
+DOMAIN-SUFFIX,emby.785858.xyz,Chaina-Hk-Us
 
 #临境
-DOMAIN-SUFFIX,emby.liminalnet.com
-DOMAIN-SUFFIX,liminal.xytx.org
+DOMAIN-SUFFIX,emby.liminalnet.com,Chaina-Hk-Us
+DOMAIN-SUFFIX,liminal.xytx.org,Chaina-Hk-Us
 
 #享镜
-DOMAIN-SUFFIX,emby.luxrealm.online
+DOMAIN-SUFFIX,emby.luxrealm.online,Chaina-Hk-Us
 
 #飞了个喵
-DOMAIN-SUFFIX,gy.meowfly.de
+DOMAIN-SUFFIX,gy.meowfly.de,Chaina-Hk-Us
 
 #105°
-DOMAIN-SUFFIX,ciallo.party
+DOMAIN-SUFFIX,ciallo.party,Chaina-Hk-Us
 
 #Shrek公益服
-DOMAIN-SUFFIX,public.shrekmedia.org
+DOMAIN-SUFFIX,public.shrekmedia.org,Chaina-Hk-Us
 
 #HOHAI
-DOMAIN-SUFFIX,emby.hohai.eu.org
+DOMAIN-SUFFIX,emby.hohai.eu.org,Chaina-Hk-Us
 
 #OKEMBY
-DOMAIN-SUFFIX,link00.okemby.org
+DOMAIN-SUFFIX,link00.okemby.org,Chaina-Hk-Us
 
 #小竹轩
-DOMAIN-SUFFIX,shouer.910427.xyz
+DOMAIN-SUFFIX,shouer.910427.xyz,Chaina-Hk-Us
 
 #泥嚎
-DOMAIN-SUFFIX,emby.istyboe.top
+DOMAIN-SUFFIX,emby.istyboe.top,Chaina-Hk-Us
 
 #反代
-DOMAIN-SUFFIX,dolby.dpdns.org
+DOMAIN-SUFFIX,dolby.dpdns.org,Chaina-Hk-Us
 
 #emos
-DOMAIN-SUFFIX,emos.lol
-DOMAIN-SUFFIX,emos.dolby.dpdns.org
+DOMAIN-SUFFIX,emos.lol,Chaina-Hk-Us
+DOMAIN-SUFFIX,emos.dolby.dpdns.org,Chaina-Hk-Us
 
 #EmbyDaDa
-DOMAIN-SUFFIX,10520.xyz
+DOMAIN-SUFFIX,10520.xyz,Chaina-Hk-Us
 
 #404
-DOMAIN-SUFFIX,ns1e.notfounda.shop
+DOMAIN-SUFFIX,ns1e.notfounda.shop,Chaina-Hk-Us
 
 #misaya
-DOMAIN-SUFFIX,emby.misaya.org
+DOMAIN-SUFFIX,emby.misaya.org,Chaina-Hk-Us
 
 #周三晚
-DOMAIN-SUFFIX,zhousanwan.xyz
+DOMAIN-SUFFIX,zhousanwan.xyz,Chaina-Hk-Us
 
 #empn
-DOMAIN-SUFFIX,empn.mom
-DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,empn.mom,Chaina-Hk-Us
+DOMAIN-SUFFIX,sharepoint.com,Chaina-Hk-Us
 
 #APTV
-DOMAIN-SUFFIX,smart.pendy.dpdns.org
-DOMAIN-SUFFIX,sport.pendy.dpdns.org
-DOMAIN-SUFFIX,docker.livednow.dpdns.org
-
-
-
-
+DOMAIN-SUFFIX,smart.pendy.dpdns.org,Chaina-Hk-Us
+DOMAIN-SUFFIX,sport.pendy.dpdns.org,Chaina-Hk-Us
+DOMAIN-SUFFIX,docker.livednow.dpdns.org,Chaina-Hk-Us
