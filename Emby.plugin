@@ -243,6 +243,8 @@ DOMAIN-SUFFIX,3.emby.yun,DIRECT
 #不吃香菜
 DOMAIN,E.iemby.cn,DIRECT
 DOMAIN,a.l0323.top,DIRECT
+#ETFLIX
+DOMAIN,embyty.entertang.work,DIRECT
 
 # ==========================================
 # 第三部分：强制德国节点 (Emby-De-Node)
