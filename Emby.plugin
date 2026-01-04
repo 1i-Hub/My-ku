@@ -240,6 +240,9 @@ DOMAIN-SUFFIX,info.us.kg,DIRECT
 DOMAIN-SUFFIX,6.emby.yun,DIRECT
 #小姨子公费
 DOMAIN-SUFFIX,3.emby.yun,DIRECT
+#不吃香菜
+DOMAIN,E.iemby.cn,DIRECT
+DOMAIN,a.l0323.top,DIRECT
 
 # ==========================================
 # 第三部分：强制德国节点 (Emby-De-Node)
@@ -274,5 +277,4 @@ DOMAIN-SUFFIX,bai1.yezi.my,Emby-De-Node
 # ==========================================
 # 第四部分：强制香港节点 (Emby-Hk-Node)
 # ==========================================
-DOMAIN,E.iemby.cn,Emby-Hk-Node
-DOMAIN,a.l0323.top,Emby-Hk-Node
+
