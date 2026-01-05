@@ -36,7 +36,8 @@ DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca,Chain-Hk-Us
 DOMAIN-SUFFIX,coemn.com,Chain-Hk-Us
 DOMAIN-SUFFIX,embycc.link,Chain-Hk-Us
 #非越
-DOMAIN-SUFFIX,z.sfcj.org,Chain-Hk-Us
+DOMAIN-SUFFIX,cdn.sfcj.org,Chain-Hk-Us
+DOMAIN-SUFFIX,cf.sfcj.org,Chain-Hk-Us
 #拉拉服
 DOMAIN-SUFFIX,itsmyduty.top,Chain-Hk-Us
 #MisakaF
