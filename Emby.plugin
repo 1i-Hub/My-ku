@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,term.wtf,Chain-Hk-Us
 #起点站公费
 DOMAIN-SUFFIX,mediaw.qdz1.top,Chain-Hk-Us
 DOMAIN-SUFFIX,white.startspoint.com,Chain-Hk-Us
-DOMAIN-SUFFIX,nb.28.al,Chain-Hk-Us
 #起点站公益
 DOMAIN-SUFFIX,freewhite.startspoint.com,Chain-Hk-Us
 DOMAIN-SUFFIX,free.28.al,Chain-Hk-Us
@@ -283,4 +282,5 @@ DOMAIN-SUFFIX,bai1.yezi.my,Emby-De-Node
 # ==========================================
 # 第四部分：强制香港节点 (Emby-Hk-Node)
 # ==========================================
-
+#起点站
+DOMAIN-SUFFIX,nb.28.al,Emby-Hk-Node
