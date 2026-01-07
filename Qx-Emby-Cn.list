@@ -1,0 +1,58 @@
+# ==========================================
+# 策略组名称：direct
+# ==========================================
+#世界线
+host-suffix, tv.worldline.space, direct
+#倒闭直连
+host-suffix, hkvol.sexemby.com, direct
+#墨云阁直连
+host-suffix, mcdn.mobaiemby.site, direct
+host-suffix, mygcns.mobaiemby.site, direct
+#lily直连
+host-suffix, cdn.lilyemby.my, direct
+#emos直连
+host-suffix, direct.emos.lol, direct
+host-suffix, emos.lol, direct
+host-suffix, emos.dolby.dpdns.org, direct
+host-suffix, emos.movier.ink, direct
+#结束
+host-suffix, kessoku-bando.biliblili.uk, direct
+#YounoEmby直连
+host-suffix, dmit.younoyes.com, direct
+host-suffix, us.younoyes.com, direct
+host-suffix, jp.younoyes.com, direct
+#飞跃彩虹直连
+host-suffix, 7777777.buzz, direct
+ip-cidr, 193.122.114.13/32, direct, no-resolve
+#DPeak
+host-suffix, dpeak.bwihz.cn, direct
+ip-cidr, 111.229.46.243/32, direct, no-resolve
+#aptv
+ip-cidr, 148.135.93.213/32, direct, no-resolve
+#YanG源
+host-keyword, iill, direct
+#aktv
+host-keyword, AKTV, direct
+#PCM Emby
+host-suffix, emby.pcmhub.org, direct
+#叶子
+host-suffix, super.yezi.my, direct
+#4K影视库
+host-suffix, 4kemby.fun, direct
+host-suffix, 4kgj.4kemby.fun, direct
+#入境
+ip-cidr, 120.53.89.215/32, direct, no-resolve
+#麦当劳
+host-suffix, saodu.work, direct
+#CookieEmby
+host-suffix, info.us.kg, direct
+#小姨子
+host-suffix, 6.emby.yun, direct
+#小姨子公费
+host-suffix, 3.emby.yun, direct
+host-suffix, 8.emby.yun, direct
+#不吃香菜
+host, E.iemby.cn, direct
+host, a.l0323.top, direct
+#ETFLIX
+host, embyty.entertang.work, direct
