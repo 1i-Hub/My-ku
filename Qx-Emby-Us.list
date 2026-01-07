@@ -1,0 +1,184 @@
+# ==========================================
+# 策略组名称：Emby-Us
+# ==========================================
+#终点站
+host-suffix, emby.wtf, proxy
+host-suffix, term.wtf, proxy
+#起点站公费
+host-suffix, mediaw.qdz1.top, proxy
+host-suffix, white.startspoint.com, proxy
+#起点站公益
+host-suffix, freewhite.startspoint.com, proxy
+host-suffix, free.28.al, proxy
+#Yomo
+host-suffix, emby.yamo.uk, proxy
+#星云
+host-suffix, nebula-media.org, proxy
+#misty
+host-suffix, misty.cx, proxy
+#月饼
+host-suffix, a.emby.my, proxy
+host-suffix, emby.my, proxy
+host-suffix, uhebs.emby.my, proxy
+#Nyamedia
+host-suffix, bangumi.ca, proxy
+host-suffix, ap-cn01.emby.bangumi.ca, proxy
+host-suffix, ap-cn02.emby.bangumi.ca, proxy
+#CC公益
+host-suffix, coemn.com, proxy
+host-suffix, embycc.link, proxy
+#非越
+host-suffix, cdn.sfcj.org, proxy
+host-suffix, cf.sfcj.org, proxy
+#拉拉服
+host-suffix, itsmyduty.top, proxy
+#MisakaF
+host-suffix, misakaf.org, proxy
+#SDL
+host-suffix, lite.saturdayvideo.top, proxy
+#天南
+host-suffix, us.nanflix.net, proxy
+#守候影院
+host-suffix, cn2gias.uk, proxy
+#见手青
+host-suffix, mooguu.xyz, proxy
+#lily
+host, www.lilyemby.my, proxy
+#纸片人
+host-suffix, embyplus.org, proxy
+#二刺螈
+host-suffix, nijigem.by, proxy
+#牢大
+host-suffix, mius.uk, proxy
+#鸽巢
+host-suffix, mediacf.doven.tv, proxy
+#骡马影库
+host-suffix, nomaba.top, proxy
+#阿尔法
+host-suffix, alphatvapp.top, proxy
+#July
+ip-cidr, 45.142.176.135/32, proxy, no-resolve
+#Temby
+host-suffix, 285286.xyz, proxy
+#飞跃彩虹
+host-suffix, yhemby.top, proxy
+#Peach
+host-suffix, embymv.link, proxy
+#明天倒闭
+host-suffix, us1.sexemby.com, proxy
+host-suffix, us4837.sexemby.com, proxy
+host-suffix, emby.sexemby.com, proxy
+#硬看
+host-suffix, emby.cancanbi.com, proxy
+#鹅服
+host-suffix, terremby.com, proxy
+host-suffix, cavps.eu.org, proxy
+#墨云阁
+host-suffix, m.mobaiemby.site, proxy
+#惊蛰
+host-suffix, jingzhe.pro, proxy
+#极光
+host-suffix, auroramedia.vip, proxy
+#Sanluo
+host-suffix, sanluo.566600.xyz, proxy
+#稳健
+host-suffix, wenjian.de, proxy
+#HKA
+host-suffix, aliz.work, proxy
+#飞跃银河
+host-suffix, yhemby.top, proxy
+#普拉斯
+host-suffix, xeton.dev, proxy
+host-suffix, plusmedia.site, proxy
+host-suffix, emby.plusmedia.site, proxy
+#叔服
+host-suffix, emby3.mcjoker.xyz, proxy
+#探花
+host-suffix, tanhuatv.site, proxy
+#Ikun
+host-suffix, emby.xxxh.de, proxy
+#比比
+host-suffix, beebi.org, proxy
+#Cimmera
+host-suffix, emby.alien666.me, proxy
+#Doubon
+host-suffix, onatoshi.114514.quest, proxy
+#拼好服
+host-suffix, 19333991.xyz, proxy
+host-suffix, emby.19333991.xyz, proxy
+host-suffix, emby2.19333991.xyz, proxy
+#流星
+host-suffix, embyhw1.liustar.click, proxy
+#KikuEmby
+host-suffix, emby.ucloudhost.top, proxy
+#lrisEmby
+host-suffix, iris.niceduck.lol, proxy
+host-suffix, ustream.irisnb.com, proxy
+host-suffix, iris4837.5203166.xyz, proxy
+host-suffix, irisus.5203166.xyz, proxy
+#YounoEmby
+host-suffix, emby.younoyes.com, proxy
+#大V
+host-suffix, su.viclub.top, proxy
+#Cheyy公益服
+host-suffix, gongyi.cherry-pornemby.top, proxy
+#云海
+host-suffix, emby.oceancloud.asia, proxy
+host-suffix, nsfw.oceancloud.asia, proxy
+#入机Emby
+host-suffix, embycf.rjemby.com, proxy
+ip-cidr, 38.58.177.51/32, proxy, no-resolve
+#起立Emby
+host-suffix, qlcf.rjemby.com, proxy
+host-suffix, embyyxvmhk.rjemby.com, proxy
+#片刻解说
+host-suffix, pieclip.okbap.com, proxy
+#云梯在线
+host-suffix, emby.yunti.online, proxy
+#PornEmby
+host-suffix, pornemby.com, proxy
+#影迹
+ip-cidr, 129.146.108.37/32, proxy, no-resolve
+#DP
+host-suffix, emby.bwihz.cn, proxy
+#萝卜Emby
+host-suffix, emby.785858.xyz, proxy
+#临境
+host-suffix, emby.liminalnet.com, proxy
+host-suffix, liminal.xytx.org, proxy
+#享镜
+host-suffix, emby.luxrealm.online, proxy
+#飞了个喵
+host-suffix, gy.meowfly.de, proxy
+#105°
+host-suffix, ciallo.party, proxy
+#Shrek公益服
+host-suffix, public.shrekmedia.org, proxy
+#HOHAI
+host-suffix, emby.hohai.eu.org, proxy
+#OKEMBY
+host-suffix, link00.okemby.org, proxy
+#小竹轩
+host-suffix, shouer.910427.xyz, proxy
+#泥嚎
+host-suffix, emby.istyboe.top, proxy
+#反代
+host-suffix, dolby.dpdns.org, proxy
+#EmbyDaDa
+host-suffix, 10520.xyz, proxy
+#404
+host-suffix, ns1e.notfounda.shop, proxy
+#misaya
+host-suffix, emby.misaya.org, proxy
+#周三晚
+host-suffix, zhousanwan.xyz, proxy
+#empn
+host-suffix, empn.mom, proxy
+#佬友记
+host, emby.605305.xyz, proxy
+#狗剩Media
+host-suffix, emby.mm880.xyz, proxy
+#APTV
+host-suffix, smart.pendy.dpdns.org, proxy
+host-suffix, sport.pendy.dpdns.org, proxy
+host-suffix, docker.livednow.dpdns.org, proxy
