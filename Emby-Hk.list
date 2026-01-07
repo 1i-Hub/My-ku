@@ -1,5 +1,2 @@
-# --- Emby 香港分流部分 (Emby-Hk-Node) ---
-
-#不吃香菜
-DOMAIN-SUFFIX,E.iemby.cn,Emby-Hk-Node
-DOMAIN-SUFFIX,a.l0323.top,Emby-Hk-Node
+#起点站
+DOMAIN-SUFFIX,nb.28.al
