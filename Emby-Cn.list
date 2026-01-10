@@ -4,12 +4,17 @@ DOMAIN-SUFFIX,tv.worldline.space
 #倒闭
 DOMAIN-SUFFIX,hkvol.sexemby.com
 
+#月饼
+host-suffix, a.emby
+host-suffix, emby.my
+host-suffix, uhebs.emby.my
+
 #墨云阁
 DOMAIN-SUFFIX,mcdn.mobaiemby.site
 DOMAIN-SUFFIX,mygcns.mobaiemby.site
 
 #lily
-DOMAIN-SUFFIX,cdn.lilyemby.my
+DOMAIN-SUFFIX,cdn.lilyemby.
 
 #emos
 DOMAIN-SUFFIX,direct.emos.lol
