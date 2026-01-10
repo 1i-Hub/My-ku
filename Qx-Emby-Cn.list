@@ -13,7 +13,7 @@ host-suffix, uhebs.emby.my, direct
 host-suffix, mcdn.mobaiemby.site, direct
 host-suffix, mygcns.mobaiemby.site, direct
 #lily直连
-host-suffix, cdn.lilyemby.my, direct
+host-suffix, cdn.lilyemby.com, direct
 #emos直连
 host-suffix, direct.emos.lol, direct
 host-suffix, emos.lol, direct
