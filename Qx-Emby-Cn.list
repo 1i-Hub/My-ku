@@ -5,6 +5,10 @@
 host-suffix, tv.worldline.space, direct
 #倒闭直连
 host-suffix, hkvol.sexemby.com, direct
+#月饼
+host-suffix, a.emby.my, direct
+host-suffix, emby.my, direct
+host-suffix, uhebs.emby.my, direct
 #墨云阁直连
 host-suffix, mcdn.mobaiemby.site, direct
 host-suffix, mygcns.mobaiemby.site, direct
