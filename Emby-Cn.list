@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,tv.worldline.space
 DOMAIN-SUFFIX,hkvol.sexemby.com
 
 #月饼
-host-suffix, a.emby
+host-suffix, a.emby.my
 host-suffix, emby.my
 host-suffix, uhebs.emby.my
 
