@@ -16,10 +16,6 @@ host-suffix, emby.yamo.uk, proxy
 host-suffix, nebula-media.org, proxy
 #misty
 host-suffix, misty.cx, proxy
-#月饼
-host-suffix, a.emby.my, proxy
-host-suffix, emby.my, proxy
-host-suffix, uhebs.emby.my, proxy
 #Nyamedia
 host-suffix, bangumi.ca, proxy
 host-suffix, ap-cn01.emby.bangumi.ca, proxy
@@ -43,7 +39,7 @@ host-suffix, cn2gias.uk, proxy
 #见手青
 host-suffix, mooguu.xyz, proxy
 #lily
-host, www.lilyemby.my, proxy
+host-suffix,lilyemby,com proxy
 #纸片人
 host-suffix, embyplus.org, proxy
 #二刺螈
